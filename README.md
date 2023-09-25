@@ -1,3 +1,6 @@
+# Deep Dive: Business Planning
+Deep Dive is one week of intensive work where the goal is to deep dive into specific subjects to improve your skills, knowledge and competences. The objectives are mainly learning new skills, gaining an undersanding of how you learn, documenting your learning resources and structuring your process of learning.
+
 ## 📚 Deep Dive Subject
 Business Planning and Project Management
 
