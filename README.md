@@ -1,1 +1,1 @@
-# KEA — Deep Dive: Business Planning
+# 🚀 KEA: Business Planning
