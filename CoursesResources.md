@@ -7,3 +7,7 @@ Below, I collected a bunch of resources from LinkedIn and Google to examine and 
 3. LinkedIn Learning: [Business Analysis: Foundations Planning](https://www.linkedin.com/learning/business-analysis-foundations-planning)
 4. Grow with Google: [Estimate Financing for Your Business Plan](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education-uk/en-uk/estimate-financing-for-your-business-plan/overview.html)
 5. Grow with Google: [Prepare For Your Business Plan](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education-uk/en-uk/prepare-for-your-business-plan/overview.html)
+
+### Technology Tips and Markdown
+1. [Markdown Guide: Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+2. [Creating Links in Markdown](https://anvilproject.org/guides/content/creating-links)
