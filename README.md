@@ -12,7 +12,6 @@ Two weeks ago, I established my own sole proprietorship company in Sweden, and I
 By the end of the week (29.09), I want to have a developed business plan for my company in both Swedish and English with 8 sections describing my business idea, positioning, competitors, customers, organisation, marketing, economy, and financing, that I can present to my clients. I will deepen the subject through own research by reading the available resources and articles, and I plan on completing at least one online course about business planning and/or project management.
 
 ## 🖥️ Digital Solution
-As for the digital solution, I will deploy a simple sharable website in GitHub pages showcasing my way of developing a Business Plan for my company with three subpages/areas:
+As for the digital solution, I will deploy a simple sharable website in GitHub pages showcasing my way of developing a Business Plan for my company with two subpages:
 1.	**Introduction**: information about me, name, subject areas, line of study, professional specialisation, etc.,
-2.	**Learnings/Findings**: what is the learning goal, how I scheduled my work and achieved the goal,
-3.	**Materials**: references to the websites I visited, articles I read, courses I took part in, etc.
+2.	**Learnings/Findings**: what is the learning goal, how I scheduled my work and achieved the goal + references to the websites I visited, articles I read, courses I took part in, etc.
