@@ -7,3 +7,5 @@ The biggest challenge during the Deep Dive was to document my learnings and keep
 
 ### What was easy?
 What was fairly easy was the actual work that I enjoyed throughout the entire time. For me, writing a business plan and researching the topics was pleasant, and I wanted to deepen my knowledge about it for a long time. Having a week designed specifically for that purpose, when I can research the subject in my own way and at my convenience, was a nice opportunity. 
+
+### Did you achieve the learning goal?
