@@ -9,3 +9,10 @@ The biggest challenge during the Deep Dive was to document my learnings and keep
 What was fairly easy was the actual work that I enjoyed throughout the entire time. For me, writing a business plan and researching the topics was pleasant, and I wanted to deepen my knowledge about it for a long time. Having a week designed specifically for that purpose, when I can research the subject in my own way and at my convenience, was a nice opportunity. 
 
 ### Did you achieve the learning goal?
+Partially, yes, I achieved the learning goal. I have a completed business plan for my business. Though, I wrote it only in one language. I have not completed a LinkedIn course, but that is yet to be done during the weekend.
+
+### What could you have done better?
+I could improve my planning and make it more optimised to consider other business activities I work on during the week. When planning a Deep Dive, I did not realistically assess my time availability and forgot about the time I needed to devote during the week to my clients, who are my priority. At times, I worked only for the clients and pushed the Deep Dive to the side.
+
+### What worked well that you will continue doing?
+A key takeaway from this week was that as long as I am interested in the topic and have a personal interest in it, I will find it pleasant to deepen my knowledge about it. I will keep on multitasking, which I do already, to meet both the school's requirements and my clients' objectives.
