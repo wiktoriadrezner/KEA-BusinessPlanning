@@ -1,3 +1,4 @@
+/* GLOBAL STYLES */
 * {
     margin: 0;
     padding: 0;
@@ -5,7 +6,7 @@
     color: white;
 }
 body {
-    padding: 2vw 2vw 0 2vw;
+    padding: 2vw 4vw 0 4vw;
     background-color: #191a1c;
 }
 h1 {
@@ -14,6 +15,10 @@ h1 {
 }
 h2 {
     color: #ffe266;
+    margin-bottom: 3px;
+}
+h3 {
+    color: #95a5ae;
     margin-bottom: 3px;
 }
 p {
@@ -25,6 +30,7 @@ b {
 }
 b:hover {
     color: #c9355f;
+    transition: 0.3s;
 }
 img {
     width: 100%;
@@ -33,10 +39,14 @@ img {
 a {
     text-decoration: none;
 }
+.margin-top {
+    margin-top: 17px;
+}
+/* FLEXBOX CONTAINERS */
 .container-row {
     display: flex;
     flex-direction: row;
-    column-gap: 2vw;
+    column-gap: 4vw;
 }
 .container-col {
     display: flex;
@@ -44,7 +54,15 @@ a {
     row-gap: 2vw;
 }
 .container-page {
-    row-gap: 2vw;
+    row-gap: 3vw;
+}
+/* NAVBAR */
+.navbar {
+    padding: 0 0 2vw 0;
+    justify-content: center;
+}
+.navbar b {
+    margin: 0 1vw;
 }
 /* COLUMNS AND SIZING */
 .col-20 {
@@ -53,9 +71,15 @@ a {
 .col-30 {
     width: 30%;
 }
+.col-50 {
+    width: 50%;
+}
 .col-70 {
     width: 70%;
 }
 .col-80 {
     width: 80%;
+}
+.col-100 {
+    width: 100%;
 }
