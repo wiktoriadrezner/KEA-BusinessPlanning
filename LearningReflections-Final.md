@@ -1,3 +1,6 @@
 # Learning Reflections — Final
 ### What did you learn about your own learning this week?
 What the Deep Dive proved to me is that I work more productive when I am outside of the school environment and devote my time solely to the activities I am interested in and can profit of. It is fairly easy to structure the work for myself, according to my needs and preferences. What might be challenging and I need to work on in the future is giving more attention to projects that are outside of the scope of my expertise, that will not directly contribute to my profession. E.g., the purpose of the Deep Dive for me was to create a business plan, which I will use in my business. Hence, it was easy and pleasurable to work on that matter and deepen my knowledge in this topic. I would image that it would be more challenging to work on something that I do not find particulary interesting.
+
+### What was difficult?
+The biggest challenge during the Deep Dive was to document my learnings, keep track of resources and progress in a meaningful and concise way. At times, I find it scarce to elaborate on my processes when working on the project, as I believe that instead of writing about things, I might simply do things. Conclusively, writing and describing my progress was not the easiest task to complete.
