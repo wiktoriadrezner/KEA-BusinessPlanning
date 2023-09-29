@@ -9,6 +9,7 @@
 4. [The 17 countries that embrace the internet the most](https://www.businessinsider.com/the-most-internet-savvy-countries-in-the-world-according-to-the-networked-readiness-index-2016-7?r=US&IR=T)
 5. [What is positioning?](https://www.productmarketingalliance.com/your-guide-to-positioning/)
 6. [SWOT Analysis](https://www.novuna.co.uk/business-finance/resource-centre/smart-business-planning/6-conducting-a-swot-analysis/#:~:text=A%20SWOT%20analysis%20evaluates%20your,when%20to%20take%20remedial%20action.)
+7. [Creating (HVCO) High-Value Content Offer](https://my.wealthyaffiliate.com/jfbmarketing/blog/creating-hvco-high-value-content-offer)
 
 ### Templates
 1. [Simple Business Plan Templates](https://www.smartsheet.com/content/simple-business-plan-templates)
