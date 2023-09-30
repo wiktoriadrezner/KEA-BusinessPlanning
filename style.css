@@ -21,6 +21,10 @@ h3 {
     color: #95a5ae;
     margin-bottom: 3px;
 }
+.font-larger b {
+    font-size: 105%;
+    line-height: 150%;
+}
 p {
     font-size: 105%;
     line-height: 150%;
@@ -63,6 +67,35 @@ a {
 }
 .navbar b {
     margin: 0 1vw;
+}
+/* TABLE */
+table,
+th,
+td {
+    border: 1px solid #3a3c40;
+    border-collapse: collapse;
+}
+th,
+td {
+    padding: 7px;
+}
+.table-header th {
+    background-color: #141516;
+    color: #c9355f;
+    text-align: center;
+}
+td:nth-child(1),
+td:nth-child(2) {
+    font-weight: bold;
+    color: #95a5ae;
+}
+.table-last td:nth-child(4) {
+    color: #95a5ae;
+    font-weight: bold;
+}
+.table-last-yellow td:nth-child(4) {
+    color: #ffe266;
+    font-weight: bold;
 }
 /* COLUMNS AND SIZING */
 .col-20 {
